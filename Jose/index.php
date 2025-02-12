@@ -8,11 +8,7 @@
 </head>
 <body>
 
-    <form method="post" action="">
-        <label for="nombre">Introduce tu nombre:</label>
-        <input type="text" id="nombre" name="nombre" required>
-        <input type="submit" value="Enviar">
-    </form>
+   echo "Hola mundo"
 
     <?php
     // Verificar si se ha enviado el formulario
