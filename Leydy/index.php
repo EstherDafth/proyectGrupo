@@ -1,7 +1,7 @@
 <?php
-echo "DEPORTES";
+echo "DEPORTES <br>";
 echo "Futbol <br>";
-echo "Basquetbol <br>";
 echo "Voleibol <br>";
-echo "Beisbol <br>";
+echo "Basquetbal <br>";
+
 
