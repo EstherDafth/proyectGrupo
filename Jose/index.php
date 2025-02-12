@@ -7,7 +7,6 @@
     <title>Formulario de Nombre</title>
 </head>
 <body>
-    <h1>Bienvenido a la página de saludo</h1>
 
     <form method="post" action="">
         <label for="nombre">Introduce tu nombre:</label>
