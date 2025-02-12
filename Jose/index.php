@@ -1,15 +1,14 @@
-<?php
 <!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Formulario de Nombre</title>
+    <title>Formulario de TICS</title>
 </head>
 <body>
 
     <form method="post" action="">
-        <label for="nombre">Introduce tu nombre:</label>
+        <label for="nombre">Introduce tu nombre completo:</label>
         <input type="text" id="nombre" name="nombre" required>
         <input type="submit" value="Enviar">
     </form>
@@ -20,7 +19,7 @@
         // Obtener el nombre del formulario
         $nombre = htmlspecialchars($_POST['nombre']);
         // Mostrar un saludo
-        echo "<h2>Hola, $nombre! Bienvenido a nuestra página.</h2>";
+        echo "<h2>Holaaaaa!, $nombre! Bienvenid@s a nuestra página.</h2>";
     }
     ?>
 </body>
