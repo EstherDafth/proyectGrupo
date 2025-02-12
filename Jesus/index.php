@@ -1,5 +1,5 @@
 <?php
-echo "Holaaaa  :) <br>" ;
+echo "Holaaaa :) este es un ejemplo<br>" ;
 
 
 $color = "red";
